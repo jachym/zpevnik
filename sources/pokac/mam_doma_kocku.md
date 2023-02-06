@@ -1,0 +1,108 @@
+### Mám doma kočku
+
+```
+cap. 1    G Emi C D
+
+   G
+   Jednou mi drahá říká:
+   Emi
+   Miláčku, já chci kočku
+   C
+   Já na to, že chci spíš psa
+   D
+   A jeli jsme pro kočku
+   
+   G
+   V útulku v Měcholupech
+   Emi
+   Maj dobrej výběr, zdá se
+   C
+   Kočky jsou zcela zdarma
+   D
+   Jen očkování za patnáct set
+   
+   G
+   Po dlouhým vybírání
+   Emi
+   Diskuzích a dvou hádkách
+   C
+   Jedno z koťátek jemně sevře
+   D
+   Můj prst ve svých drápkách
+   
+   Tak volba byla jasná
+   Má drahá slzy suší
+   Co si však vezem domů
+   To ani jeden z nás netuší
+   G-Emi-C-D-G
+R: Mám doma kočku, mám ji rád
+   Je to skvělý kamarád
+   Jen od tý doby, co ji znám
+   Mám ruce nohy samej šrám
+   Dávno už se nemazlí
+   Žít s ní je pro zdraví fakt zlý
+   Každý den projdu terorem
+   Mám nejspíš kočku s errorem
+   
+   Po pár dnech soužití
+   Vše vypadá nevinně
+   Koťátko v náručí spí
+   A pak zkadí půlku kuchyně
+   
+   Prostě nic, co nečekáš
+   Když útulek zaručí
+   Že kočička se za pár týdnů
+   Na záchůdek naučí
+   
+   Jenže pár měsíců je pryč
+   Záchod zeje prázdnotou
+   Bytem čpí příšernej smrad
+   Za kočkou lítám s lopatou
+   
+   Když jí zkusím pomoct sám
+   Na záchod ji přemístit
+   Zvládne mi dlaně rozdrásat
+   A ještě potřísnit
+   
+R: ...
+   
+   Za noc nejmíň pětkrát
+   Jí okno otevřít jdu
+   Pak práci šéf se zeptá
+   Proč vždy tak ospalý přijdu
+   
+   Že občas hrdě nám
+   Donese zakouslou myš
+   Poznáš až ráno když se
+   S torzem myši v ústech vzbouzíš
+   
+   Tak jsme si dobrovolně
+   Pořídili katastrofu
+   Stálo nás to patnáct stovek
+   A jednu zbrusu novou sofu
+   
+   Kouše, škrábe, drásá
+   No prostě je to krása
+   Tváří se tak roztomile
+   Zvlášť, když se mi rejpe v žíle
+   
+R: ...
+       Emi            C
+   Ráda dlouze sedá v okně
+   D            Emi 
+   Anebo ve dveřích
+   Bůh ví, proč nejradši v zimě
+   Když venku padá sníh
+
+           Emi          C
+   Když pak v bytě máme mínus dvacet
+   D             G
+   Tak nás zahřívá
+   Aspoň pocit, že v tu chvíli naši
+   krev neprolívá
+   OU!
+   
+R: ...
+   
+   MŇAU
+```
