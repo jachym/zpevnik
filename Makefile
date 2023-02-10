@@ -26,3 +26,4 @@ build/zpevnik.md: $(files)
 build/zpevnik.pdf: build/zpevnik.md
 
 	@pandoc -V papersize:a5 -o build/zpevnik.pdf build/zpevnik.md
+	@pdfbook2 --paper=a4 build/zpevnik.pdf
