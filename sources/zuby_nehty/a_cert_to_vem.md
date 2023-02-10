@@ -1,4 +1,4 @@
-### A čert to vem
+### Ale čert to vem
 
 ```
 Ráno potkám toho,
