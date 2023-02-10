@@ -14,4 +14,6 @@ Em Em | Em Em | Em Em | D D
 G G   | D G   | Am Bm | C D
 ```
 
-![Morrison's jig](morrisons-jig.png)
+![Morrison's jig](build/morrisons-jig.png)
+
+

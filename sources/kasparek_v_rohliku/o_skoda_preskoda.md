@@ -51,5 +51,4 @@ C
 G                D    C                      G
 Tak jako hlídací pes, kous by mě kdybych tam vlez
 
-￼
 ```
