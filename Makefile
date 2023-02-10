@@ -9,8 +9,7 @@ clean:
 
 build/zpevnik.md: $(files)
 	@mkdir -p build
-	@echo "# Čepický zpěvník" > build/zpevnik.md
-	@echo "\pagebreak" >> build/zpevnik.md
+	@cat main.md > build/zpevnik.md
 
 	@for f in $(files); do \
 		cat $${f} >> build/zpevnik.md; \
